@@ -71,7 +71,7 @@ The output from the feature fusion decoder is trained as the representation of t
 
 ### Overview
 ![GR-2](assets/image-15.png)
-
+This large-scale pre-training, involving 38 million video clips and over 50 billion tokens, equips GR-2 with the ability to generalize across a wide range of robotic tasks and environments during subsequent policy learning
 
 ### Video
 [GR-2 Video](https://www.youtube.com/watch?v=FHH0r_QUmyo)
